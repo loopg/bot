@@ -122,3 +122,4 @@ class SimplePassword(AuthInterface):
 #     summarization=False,
 #     ask_results_correct=True,
 # ).run()
+print("   ")
